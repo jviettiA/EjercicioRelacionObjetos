@@ -1,0 +1,6 @@
+C:\Users\JVIETTI\source\repos\RelacionObjetos\WindowsFacturacion\bin\Debug\WindowsFacturacion.dll
+C:\Users\JVIETTI\source\repos\RelacionObjetos\WindowsFacturacion\bin\Debug\WindowsFacturacion.pdb
+C:\Users\JVIETTI\source\repos\RelacionObjetos\WindowsFacturacion\obj\Debug\WindowsFacturacion.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\RelacionObjetos\WindowsFacturacion\obj\Debug\WindowsFacturacion.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\RelacionObjetos\WindowsFacturacion\obj\Debug\WindowsFacturacion.dll
+C:\Users\JVIETTI\source\repos\RelacionObjetos\WindowsFacturacion\obj\Debug\WindowsFacturacion.pdb

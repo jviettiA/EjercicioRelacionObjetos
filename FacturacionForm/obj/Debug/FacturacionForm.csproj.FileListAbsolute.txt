@@ -1,0 +1,14 @@
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\bin\Debug\FacturacionForm.exe.config
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\bin\Debug\FacturacionForm.exe
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\bin\Debug\FacturacionForm.pdb
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\bin\Debug\WindowsFacturacion.dll
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\bin\Debug\WindowsFacturacion.pdb
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\obj\Debug\FacturacionForm.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\obj\Debug\FacturacionForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\obj\Debug\FacturacionForm.Form1.resources
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\obj\Debug\FacturacionForm.Properties.Resources.resources
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\obj\Debug\FacturacionForm.csproj.GenerateResource.cache
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\obj\Debug\FacturacionForm.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\obj\Debug\FacturacionForm.csproj.CopyComplete
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\obj\Debug\FacturacionForm.exe
+C:\Users\JVIETTI\source\repos\RelacionObjetos\FacturacionForm\obj\Debug\FacturacionForm.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e149a33e-2282-4428-ad00-e2c34dc01967": {
+      "ProjectGuid": "e149a33e-2282-4428-ad00-e2c34dc01967",
+      "DisplayName": "WindowsFacturacion",
+      "ColorIndex": 0
+    },
+    "3b79b0d5-eec5-470c-a498-2ffe2aa28a2b": {
+      "ProjectGuid": "3b79b0d5-eec5-470c-a498-2ffe2aa28a2b",
+      "DisplayName": "FacturacionForm",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

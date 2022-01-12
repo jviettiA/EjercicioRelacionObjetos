@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFacturacion.Usuario">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFacturacion.Cliente">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Usuario" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Facturas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="WindowsFacturacion.DetalleFactura">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>DetalleFactura.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Factura" />
+      <Property Name="Producto" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WindowsFacturacion.Empleado">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFacturacion.Factura">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAACAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factura.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Cliente" />
+      <Property Name="Empleado" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="DetalleFacturas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="WindowsFacturacion.Persona">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFacturacion.Producto">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAgACQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Categoria" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="DetalleFacturas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="WindowsFacturacion.Categoria">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
